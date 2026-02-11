@@ -1,6 +1,6 @@
 # Cybersecurity Training Portfolio
 
-I am a cybersecurity student building **hands-on experience** through labs, SOC simulations, and practical exercises.  
+I am a cybersecurity student building hands-on experience through labs, SOC simulations, and practical exercises.  
 This repository documents my technical learning, lab work, and applied cybersecurity training.
 
 ---
@@ -18,8 +18,9 @@ This repository documents my technical learning, lab work, and applied cybersecu
 ## Purpose
 
 This portfolio shows my progression from foundational learning to applied skills. Each folder contains structured write-ups and notes from platforms like TryHackMe, labs, and personal projects.  
-It is designed to demonstrate practical understanding and readiness for cybersecurity roles.
-This portfolio also serves as a practical exercise in using Git and GitHub for version control, collaboration, and documenting cybersecurity labs - an essential skill for real-world security operations.
+It is designed to demonstrate practical understanding and readiness for cybersecurity roles, and also serves as a hands-on exercise in using Git and GitHub for version control, collaboration, and documenting cybersecurity labs.
+
+It is designed to demonstrate practical skills and capability in cybersecurity roles, and also serves as a hands-on exercise in using Git and GitHub for version control, collaboration, and documenting cybersecurity labs.
 
 ---
 
