@@ -17,10 +17,7 @@ This repository documents my technical learning, lab work, and applied cybersecu
 
 ## Purpose
 
-This portfolio shows my progression from foundational learning to applied skills. Each folder contains structured write-ups and notes from platforms like TryHackMe, labs, and personal projects.  
-It is designed to demonstrate practical understanding and readiness for cybersecurity roles, and also serves as a hands-on exercise in using Git and GitHub for version control, collaboration, and documenting cybersecurity labs.
-
-It is designed to demonstrate practical skills and capability in cybersecurity roles, and also serves as a hands-on exercise in using Git and GitHub for version control, collaboration, and documenting cybersecurity labs.
+This portfolio shows my progression from foundational learning to applied skills. Each folder contains structured write-ups and notes from platforms like TryHackMe, labs, and personal projects. It is designed to demonstrate practical skills and capability in cybersecurity roles, and also serves as a hands-on exercise in using Git and GitHub for version control, collaboration, and documenting cybersecurity labs.
 
 ---
 
