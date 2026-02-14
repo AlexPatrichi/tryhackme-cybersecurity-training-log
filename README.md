@@ -12,6 +12,7 @@ This repository documents my technical learning, lab work, and applied cybersecu
 - SIEM tools & alert triage  
 - Web & network security fundamentals  
 - Tools & scripting for automation  
+- Version control and technical documentation  
 
 ---
 
@@ -24,7 +25,7 @@ This portfolio shows my progression from foundational learning to applied skills
 ## Repository Structure
 
 /tryhackme  #Each TryHackMe room gets its own markdown file
-/git-basics  → Git & Bash learning
+/git-basics #Git & Bash learning
 
 ---
 
@@ -43,5 +44,4 @@ This portfolio shows my progression from foundational learning to applied skills
 
 ---
 
-> This repository is continuously updated as I progress through cybersecurity labs, SOC simulations, and projects.  
-> Goal: Build practical skills and a professional portfolio that demonstrates applied cybersecurity expertise.
+> The goal is to build not only cybersecurity knowledge, but also the technical habits and workflows used in real security, IT, and engineering environments.
