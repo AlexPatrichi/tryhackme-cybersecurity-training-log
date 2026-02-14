@@ -1,9 +1,11 @@
-#Git & Bash Learning Log
+Git & Bash Learning Log
 
 This file documents my hands-on learning of Git, GitHub, and Bash commands.  
 It shows progression, workflow practices, and lessons learned while building my cybersecurity training portfolio.  
 
-##Entry 1: Repository Setup
+======
+
+Entry 1: Repository Setup
 
 >Created a GitHub repository for my portfolio  
 >Cloned the repository locally  
@@ -15,7 +17,9 @@ It shows progression, workflow practices, and lessons learned while building my 
 >pwd  
 >ls
 
-##Entry 2: Adding Files & Folders
+------
+
+Entry 2: Adding Files & Folders
 
 >Created /tryhackme folder for lab files  
 >Learned Git ignores empty folders, so I added a .gitkeep file  
@@ -30,7 +34,9 @@ It shows progression, workflow practices, and lessons learned while building my 
 >git commit -m "Add tryhackme folder"  
 >git push  
 
-##Entry 3: README.md Updates
+------
+
+Entry 3: README.md Updates
 
 >Learned to pull latest changes before editing (git pull)  
 >Edited README.md to include updates  
@@ -45,7 +51,9 @@ It shows progression, workflow practices, and lessons learned while building my 
 >git commit -m "Update formatting"  
 >git push  
 
-##Entry 4: Merge Conflicts
+------
+
+Entry 4: Merge Conflicts
 
 >Experienced a merge conflict in README.md  
 >Learned to resolve by:  
@@ -58,7 +66,9 @@ It shows progression, workflow practices, and lessons learned while building my 
 >git commit -m "Resolve merge conflict in README.md"  
 >git push  
 
-##Entry 5: GitHub Desktop vs Git Bash
+------
+
+Entry 5: GitHub Desktop vs Git Bash
 
 >Learned the differences between using GitHub Desktop and Git Bash  
 >Desktop is easier for beginners; Bash is more flexible and professional  
