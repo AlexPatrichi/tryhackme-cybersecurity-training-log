@@ -24,7 +24,6 @@ This portfolio shows my progression from foundational learning to applied skills
 ## Repository Structure
 
 /tryhackme  #Each TryHackMe room gets its own markdown file
-
 /git-basics  → Git & Bash learning
 
 ---
