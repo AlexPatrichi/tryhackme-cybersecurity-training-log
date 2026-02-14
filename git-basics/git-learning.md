@@ -3,7 +3,7 @@ Git & Bash Learning Log
 This file documents my hands-on learning of Git, GitHub, and Bash commands.  
 It shows progression, workflow practices, and lessons learned while building my cybersecurity training portfolio.  
 
-======
+------
 
 Entry 1: Repository Setup
 
