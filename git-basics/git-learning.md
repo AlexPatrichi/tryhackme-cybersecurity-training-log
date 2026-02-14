@@ -1,0 +1,132 @@
+\# Git \& Bash Learning Log
+
+
+
+This file documents my hands-on learning of Git, GitHub, and Bash commands.  
+
+It shows progression, workflow practices, and lessons learned while building my cybersecurity training portfolio.
+
+
+
+---
+
+
+
+\## Entry 1: Repository Setup
+
+
+
+\- Created a GitHub repository for my portfolio 
+
+\- Cloned the repository locally 
+
+\- Learned the difference between local repository and remote repository
+
+\- Learned how Git tracks files, not empty folders 
+
+
+
+\### Key Commands
+
+```bash
+
+git clone https://github.com/AlexPatrichi/tryhackme-cybersecurity-training-log.git
+
+pwd
+
+ls
+
+
+
+\## Entry 2: Adding Files \& Folders
+
+
+
+-Created /tryhackme folder for lab files
+
+-Learned Git ignores empty folders, so I add .gitkeep file
+
+-Created first lab file world-wide-web.md to track lab work
+
+
+
+\### Key Commands
+
+```bash
+mkdir tryhackme
+
+touch tryhackme/world-wide-web.md
+
+git status
+
+git add tryhackme
+
+git commit -m "Add tryhackme folder"
+
+git push 
+
+
+
+\## Entry 3: README.md Updates
+
+
+
+-Learned to pull latest changes before editing (git pull)
+
+-Edited README.md to include updates
+
+-Learned proper Markdown formatting:
+
+* Code blocks for folder structure
+* Headings for sections
+* Bullets for readability
+
+
+
+\### Key Commands
+
+```bash
+
+git pull origin main
+
+git add README.md
+
+git commit -m "Update formatting"
+
+git push
+
+
+
+\##Entry 4: Merge Conflicts
+
+
+
+-Experienced a merge conflict in README.md
+
+-Learned to resolve by:
+
+
+
+* Identifying conflict markers <<<<<<< HEAD, =======, >>>>>>> origin/main
+* Deciding which changes to keep
+* Saving, staging, and committing the resolved file
+
+
+
+\### Key Commands
+
+```bash
+
+git add README.md
+
+git commit -m "Resolve merge conflict in README.md"
+
+git push
+
+
+
+Entry 5: GitHub Desktop vs Git Bash
+
+1. Learned the differences between using GitHub Desktop and Git Bash
+2. Desktop is easier for beginners; Bash is more flexible and professional
+3. Bash enables advanced workflows, scripting, and working on servers
