@@ -36,7 +36,17 @@ Entry 2: Adding Files & Folders
 
 ------
 
-Entry 3: README.md Updates
+Entry 3: Markdown Syntax & Documentation Skills
+
+> 1. Learned Markdown syntax for technical documentation
+> 2. Used headings, lists, code blocks, and inline code
+> 3. Structured content for clarity and readability
+> 4. GitHub-friendly layout
+> 5. Understood the importance of documentation in tech and cybersecurity
+
+------
+
+Entry 4: README.md Updates
 
 >Learned to pull latest changes before editing (git pull)  
 >Edited README.md to include updates  
@@ -53,7 +63,7 @@ Entry 3: README.md Updates
 
 ------
 
-Entry 4: Merge Conflicts
+Entry 5: Merge Conflicts
 
 >Experienced a merge conflict in README.md  
 >Learned to resolve by:  
@@ -68,8 +78,8 @@ Entry 4: Merge Conflicts
 
 ------
 
-Entry 5: GitHub Desktop vs Git Bash
+Entry 6: GitHub Desktop vs Git Bash
 
->Learned the differences between using GitHub Desktop and Git Bash  
->Desktop is easier for beginners; Bash is more flexible and professional  
->Bash enables advanced workflows, scripting, and working on servers  
+> - Learned the differences between using GitHub Desktop and Git Bash  
+> - Desktop is easier for beginners; Bash is more flexible and professional  
+> - Bash enables advanced workflows, scripting, and working on servers  
