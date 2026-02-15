@@ -27,26 +27,26 @@ It serves as both a reference and a learning log for workflows, file management,
 
 ## How Git Tracks File Changes (States)  
 
->Understanding how Git tracks file states helped me control what gets saved in version history instead of committing blindly.  
->
->Main states:  
->
->**Untracked** – New files Git hasn’t seen before  
->(Created, but not added to version control yet)  
->
->**Modified** – Existing files that have been changed  
->(Edited locally, but not prepared for commit)  
->
->**Staged** – Files selected for the next commit  
->(Prepared to be saved in Git history)  
->
->**Committed** – Files permanently saved in the repository history  
->(Stored in Git history)  
->
->Commands involved:  
->git add <file>       - prepares changes for commit  
->git commit -m "msg"  - records changes in version history  
->git push             - uploads committed changes to GitHub  
+Understanding how Git tracks file states helped me control what gets saved in version history instead of committing blindly.  
+
+Main states:  
+
+**Untracked** – New files Git hasn’t seen before  
+(Created, but not added to version control yet)  
+
+**Modified** – Existing files that have been changed  
+(Edited locally, but not prepared for commit)  
+
+**Staged** – Files selected for the next commit  
+(Prepared to be saved in Git history)  
+
+**Committed** – Files permanently saved in the repository history  
+(Stored in Git history)  
+
+Commands involved:  
+git add <file>       - prepares changes for commit  
+git commit -m "msg"  - records changes in version history  
+git push             - uploads committed changes to GitHub  
 
 ---
 
