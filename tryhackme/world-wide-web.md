@@ -1,9 +1,9 @@
 # World Wide Web Lab – TryHackMe
 
-Platform: TryHackMe
-Date Completed: 10.02.2026
-Skill Level: Beginner / Foundation
-Focus Area: Web Fundamentals
+Platform: TryHackMe  
+Date Completed: 10.02.2026  
+Skill Level: Beginner / Foundation  
+Focus Area: Web Fundamentals  
 
 ## Objective
 
