@@ -48,12 +48,12 @@ Entry 3: Markdown Syntax & Documentation Skills
 
 Entry 4: README.md Updates
 
->Learned to pull latest changes before editing (git pull)  
->Edited README.md to include updates  
->Learned proper Markdown formatting:  
->	-Code blocks for folder structure  
->	-Headings for sections  
->	-Bullets for readability  
+>1. Learned to pull latest changes before editing (git pull)  
+>2. Edited README.md to include updates  
+>3. Learned proper Markdown formatting:  
+>	- Code blocks for folder structure  
+>	- Headings for sections  
+>	- Bullets for readability  
 >
 >Key Commands
 >git pull origin main  
@@ -65,11 +65,11 @@ Entry 4: README.md Updates
 
 Entry 5: Merge Conflicts
 
->Experienced a merge conflict in README.md  
->Learned to resolve by:  
->	-Identifying conflict markers <<<<<<< HEAD, =======, >>>>>>> origin/main  
->	-Deciding which changes to keep  
->	-Saving, staging, and committing the resolved file  
+> - Experienced a merge conflict in README.md  
+> - Learned to resolve by:  
+>	- Identifying conflict markers <<<<<<< HEAD, =======, >>>>>>> origin/main  
+>	- Deciding which changes to keep  
+>	- Saving, staging, and committing the resolved file  
 >
 >Key Commands  
 >git add README.md  
