@@ -12,20 +12,20 @@ Entry 1: Repository Setup
 >Learned the difference between local repository and remote repository  
 >Learned how Git tracks files, not empty folders  
 >
->Key Commands
+>Key Commands:  
 >git clone https://github.com/AlexPatrichi/tryhackme-cybersecurity-training-log.git  
 >pwd  
 >ls
 
 ------
 
-Entry 2: Adding Files & Folders
+Entry 2: Adding Files & Folders  
 
 >Created /tryhackme folder for lab files  
 >Learned Git ignores empty folders, so I added a .gitkeep file  
 >Created first lab file world-wide-web.md to track lab work  
 >
->Key Commands
+>Key Commands:  
 >mkdir tryhackme  
 >touch tryhackme/.gitkeep  
 >touch tryhackme/world-wide-web.md  
@@ -55,7 +55,7 @@ Entry 4: README.md Updates
 >	- Headings for sections  
 >	- Bullets for readability  
 >
->Key Commands
+>Key Commands:  
 >git pull origin main  
 >git add README.md  
 >git commit -m "Update formatting"  
@@ -71,7 +71,7 @@ Entry 5: Merge Conflicts
 >	- Deciding which changes to keep  
 >	- Saving, staging, and committing the resolved file  
 >
->Key Commands  
+>Key Commands:    
 >git add README.md  
 >git commit -m "Resolve merge conflict in README.md"  
 >git push  
