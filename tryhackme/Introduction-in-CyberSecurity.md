@@ -41,6 +41,7 @@ Gain a foundational understanding of cybersecurity, including:
 - TryHackMe platform  
 - Browser (Chrome)  
 - Lab virtual machines (sandboxed environments for ethical hacking)  
+- Gobuster – open-source tool for brute-forcing web directories, subdomains, and virtual hosts in a legal lab environment.  
 
 ## Security Relevance
 
