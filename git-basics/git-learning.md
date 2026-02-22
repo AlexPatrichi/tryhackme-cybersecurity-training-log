@@ -1,11 +1,11 @@
-Git & Bash Learning Log
+# Git & Bash Learning Log
 
 This file documents my hands-on learning of Git, GitHub, and Bash commands.  
 It shows progression, workflow practices, and lessons learned while building my cybersecurity training portfolio.  
 
 ------
 
-Entry 1: Repository Setup
+## Entry 1: Repository Setup
 
 >Created a GitHub repository for my portfolio  
 >Cloned the repository locally  
@@ -19,7 +19,7 @@ Entry 1: Repository Setup
 
 ------
 
-Entry 2: Adding Files & Folders  
+## Entry 2: Adding Files & Folders  
 
 >Created /tryhackme folder for lab files  
 >Learned Git ignores empty folders, so I added a .gitkeep file  
@@ -36,7 +36,7 @@ Entry 2: Adding Files & Folders
 
 ------
 
-Entry 3: Markdown Syntax & Documentation Skills
+## Entry 3: Markdown Syntax & Documentation Skills
 
 > 1. Learned Markdown syntax for technical documentation
 > 2. Used headings, lists, code blocks, and inline code
@@ -46,7 +46,7 @@ Entry 3: Markdown Syntax & Documentation Skills
 
 ------
 
-Entry 4: README.md Updates
+## Entry 4: README.md Updates
 
 >1. Learned to pull latest changes before editing (git pull)  
 >2. Edited README.md to include updates  
@@ -63,7 +63,7 @@ Entry 4: README.md Updates
 
 ------
 
-Entry 5: Merge Conflicts
+## Entry 5: Merge Conflicts
 
 > - Experienced a merge conflict in README.md  
 > - Learned to resolve by:  
@@ -78,8 +78,21 @@ Entry 5: Merge Conflicts
 
 ------
 
-Entry 6: GitHub Desktop vs Git Bash
+## Entry 6: GitHub Desktop vs Git Bash
 
 > - Learned the differences between using GitHub Desktop and Git Bash  
 > - Desktop is easier for beginners; Bash is more flexible and professional  
 > - Bash enables advanced workflows, scripting, and working on servers  
+
+------
+
+## Entry 7: Renaming a Folder and Staging Changes
+
+>- Git doesn’t automatically track renamed folders. 
+>- To ensure the new folder name was properly registered, I used the command **git add -A**. -A command ensures Git notices renamed, new, and deleted files/folders.  
+> - After staging, I committed and pushed the updates to GitHub.  
+>
+>Key commands: 
+>git add -A  
+>git commit -m "Rename folder to c-fundamentals"  
+>git push -u origin main  
