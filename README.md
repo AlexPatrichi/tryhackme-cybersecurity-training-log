@@ -12,7 +12,6 @@ This repository documents my technical learning, lab work, and applied cybersecu
 - SIEM tools & alert triage  
 - Web & network security fundamentals  
 - Tools & scripting for automation  
-- Version control and technical documentation  
 
 ---
 
@@ -26,9 +25,6 @@ This portfolio shows my progression from foundational learning to applied skills
 
 /tryhackme
 → Each TryHackMe room gets its own markdown file documenting learning outcomes, concepts, and security relevance
-
-/git-basics
-→ Git, Bash, and GitHub learning notes, workflows, and version control practice
 
 ---
 
