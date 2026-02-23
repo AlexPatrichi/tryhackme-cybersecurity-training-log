@@ -30,7 +30,7 @@ This portfolio shows my progression from foundational learning to applied skills
 
 ## How to Navigate
 
-1. Start with `/tryhackme/` for foundational lab exercises.  
+1. Start with `/computer-science-basics/` for foundational lab exercises.  
 2. Each lab file includes: objective, key concepts, actions taken, tools used, and security relevance.  
 3. This repository will grow as more labs and exercises are added.
 
