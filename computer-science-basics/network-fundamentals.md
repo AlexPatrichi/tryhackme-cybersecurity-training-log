@@ -50,6 +50,14 @@ Physical → Data Link → Network → Transport → Session → Presentation �
 - **TCP/IP Model**  
 Network Interface → Internet → Transport → Application   
 
+### VPN (Virtual Private Networks)  
+- Secure encrypted communication over public networks  
+- Used for privacy, remote access, and secure network connections  
+ 
+Common VPN Technologies:  
+PPTP – legacy VPN protocol (weak security)  
+IPSec – secure VPN standard (strong encryption)  
+
 ## Practical Skills Developed   
 
 1. Understanding traffic flow between systems  
