@@ -1,9 +1,9 @@
-# Computer Fundamentals Lab – TryHackMe
+# Computer Fundamentals Lab – TryHackMe  
 
-Platform: TryHackMe
-Date Completed: 26.02.2026
-Skill Level: Beginner / Foundation
-Focus Area: Computer Fundamentals
+Platform: TryHackMe  
+Date Completed: 26.02.2026  
+Skill Level: Beginner / Foundation   
+Focus Area: Computer Fundamentals  
 
 ## Objective
 
@@ -43,7 +43,7 @@ On-demand computing resources delivered over the internet.
 
 - TryHackMe platform
 - Web browser (Inspect section)
--System monitoring tools (Task Manager / Resource Monitor / Virtual Machine Manager / Cloud interface similar to AWS)
+- System monitoring tools (Task Manager / Resource Monitor / Virtual Machine Manager / Cloud interface similar to AWS)
 
 ## Security Relevance
 
