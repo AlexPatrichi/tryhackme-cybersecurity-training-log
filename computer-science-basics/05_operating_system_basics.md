@@ -33,7 +33,9 @@ Gain a foundational understanding of operating systems and cybersecurity, includ
 - Permissions model (read, write, execute)
 
 4. Command Line Interface (CLI)  
+
 **Windows CLI (Command Prompt / PowerShell)**  
+
 | Category                     | Command      | Description                  |
 |------------------------------|--------------|------------------------------|
 | Navigation & File Inspection | cd           | Change directory             |
@@ -49,7 +51,8 @@ Gain a foundational understanding of operating systems and cybersecurity, includ
 | System & Network Information | tasklist     | View running processes       |
 | System & Network Information | systeminfo   | Detailed system information  |
 
-**Linux CLI**   
+**Linux CLI** 
+  
 | Category                     | Command | Description                          |
 |------------------------------|---------|--------------------------------------|
 | Navigation & File Inspection | cd      | Change directory                     |
