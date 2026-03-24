@@ -33,7 +33,7 @@ Gain a foundational understanding of operating systems and cybersecurity, includ
 - Permissions model (read, write, execute)
 
 4. Command Line Interface (CLI)  
-**Windows CLI (Command Prompt / PowerShell)**
+**Windows CLI (Command Prompt / PowerShell)**  
 | Category                         | Command      | Description                  |
 |----------------------------------|--------------|------------------------------|
 | Navigation & File Inspection     | `cd`         | Change directory             |
