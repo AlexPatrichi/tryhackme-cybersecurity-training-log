@@ -38,16 +38,16 @@ This portfolio shows my progression from foundational learning to applied skills
 
 ## Contact / Portfolio Info
 
-<table width="100%">
+<table align="center">
   <tr>
-    <td align="left">
+    <td>
       <a href="https://www.linkedin.com/in/alex-patrichi" target="_blank">
-        <img src="images/linkedin.png" alt="LinkedIn" width="40"/>
+        <img src="images/linkedin.png" width="40"/>
       </a>
     </td>
-    <td align="right">
+    <td>
       <a href="mailto:patrichialex92@gmail.com">
-        <img src="images/gmail.png" alt="Email" width="40"/>
+        <img src="images/gmail.png" width="40"/>
       </a>
     </td>
   </tr>
