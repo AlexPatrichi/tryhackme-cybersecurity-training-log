@@ -44,3 +44,8 @@ This portfolio shows my progression from foundational learning to applied skills
 ---
 
 > The goal is to build not only cybersecurity knowledge, but also the technical habits and workflows used in real security, IT, and engineering environments.
+
+
+<p align="center">
+  <img src="images/tryhackme.png" alt="TryHackMe Logo" width="200"/>
+</p>
